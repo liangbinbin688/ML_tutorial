@@ -1,3 +1,10 @@
+﻿***************************
 机器学习
 sklearn和tensorflow
+<<<<<<< HEAD
 jiqi 
+=======
+Welcome your learning ML
+
+***************************
+>>>>>>> develope
